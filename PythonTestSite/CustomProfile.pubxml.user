@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZJgog1iiaky8Op6c+JabZwAAAAACAAAAAAAQZgAAAAEAACAAAADYt+TfNO47dT/lXoLsdvrv377GeiccqcQuyX1RBg+0CgAAAAAOgAAAAAIAACAAAABdwt6VvxWLjwrZJRHlp4QBj/qhUT5yZ0koCN9PK+PaTSAAAABNl0qWNEAK/o8ct8rFThh6YxgnmcblLdCdX+OUpgofXEAAAAAeVnc2hFDZpVctMY6dfiK6M//3ESWT1q8se1JDWy3VLsAwFKarA/Stg1tHAjAodqGjqKq7xkXP7A/uWem92imZ</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.site4now.net/keithbsmith/python/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="PythonTestSite/static/content/bootstrap.css">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/content/bootstrap.min.css">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/content/site.css">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/bootstrap.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/bootstrap.min.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery-1.10.2.intellisense.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery-1.10.2.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery-1.10.2.min.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery-1.10.2.min.map">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery.validate-vsdoc.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery.validate.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery.validate.min.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery.validate.unobtrusive.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/modernizr-2.6.2.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/respond.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/respond.min.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/static/scripts/_references.js">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/templates/about.html">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/templates/contact.html">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/templates/index.html">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/templates/layout.html">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="PythonTestSite/views.py">
+      <publishTime>05/08/2019 08:49:57</publishTime>
+    </File>
+    <File Include="PythonTestSite/__init__.py">
+      <publishTime>05/08/2019 08:49:57</publishTime>
+    </File>
+    <File Include="requirements.txt">
+      <publishTime>05/08/2019 08:46:03</publishTime>
+    </File>
+    <File Include="runserver.py">
+      <publishTime>05/08/2019 08:49:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
